@@ -103,7 +103,7 @@ function finishGame(){
     var tab8=document.getElementById('but8');
     var tab9=document.getElementById('but9');
     tab1.innerHTML='';tab2.innerHTML='';tab3.innerHTML='';tab4.innerHTML='';tab5.innerHTML='';
-    tab6.innerHTML='';tab7.innerHTML='';tab8.innerHTML='';tab9.innerHTML=''
+    tab6.innerHTML='';tab7.innerHTML='';tab8.innerHTML='';tab9.innerHTML='';
     tab1.style.backgroundColor="black";
     tab2.style.backgroundColor="black";
     tab3.style.backgroundColor="black";
