@@ -1,0 +1,42 @@
+section{
+    margin: 1% 30%;
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    float: right;
+}
+p{
+    padding-left: 25%;
+}
+div{
+    width:100px;
+    height:100px;
+    background-color: black;
+    border:white solid;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    padding:10%;
+}
+#show{
+    font-size: 3em;
+    color:gold;
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+    height: 30px;
+    width:200px;
+    margin-left: 100px;
+    transition: transform 2s, height 4s;
+    text-align: center;
+}
+h2:hover{
+    transform: scale(2,2);
+}
+span{
+    padding-left: 100px;
+    align-items: center;
+}
+#error{
+    color:red;
+}
